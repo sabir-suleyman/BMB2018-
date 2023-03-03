@@ -8,7 +8,7 @@
 - Zeynep UYSAL,
 - İrem İÇÖZ,
 
-Proje Detayı:
+№№ **Proje Detayı**
 
 -
 
