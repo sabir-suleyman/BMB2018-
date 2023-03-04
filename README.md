@@ -4,7 +4,7 @@
 
 ## **Proje Detayı**
 
-Unity Oyun motoru kullanılarak işlevsel 3D oyun tasarımı ve kodlanması
+Unity Oyun motoru kullanılarak işlevsel 3D oyun tasarımı ve kodlanması.
 
 
 ## Takım Üyeleri
